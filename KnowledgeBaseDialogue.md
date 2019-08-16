@@ -1,0 +1,1 @@
+[Building a Knowledge Graph-based Dialogue System at the 2nd ConvAI Summer School-Medium](https://medium.com/deeppavlov/building-a-knowledge-graph-based-dialogue-system-at-the-2nd-convai-summer-school-ec2d0aa060e5)
